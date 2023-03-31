@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638911425 source:c:\users\814\documents\инфа дз 1\Полярный угол\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
